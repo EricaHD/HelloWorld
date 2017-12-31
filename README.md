@@ -5,7 +5,7 @@ This project takes in a .obj file and renders a 3D object with texture mapping a
 ## Built With
 
 * C++
-* Eigen library for linear algebra
+* Eigen library (for linear algebra)
 * OpenGL (version 4.1.0)
 * GLSL (version 4.10)
 * GLFW
@@ -18,6 +18,7 @@ This project takes in a .obj file and renders a 3D object with texture mapping a
 * 'z' to spin the scene with the camera
 * '-' to zoom out with the camera (perspective mode only)
 * 'b' toggles between terrain bump map to bricks bump map
+* can also change between orthographic and perspective projection in main.cpp
 
 ## Texture Mapping
 
@@ -34,6 +35,10 @@ With topographical bump map:
 With brick bump map:
 
 ![alt text](https://github.com/EricaHD/HelloWorld/blob/master/READMEpictures/brick.png)
+
+## Animation
+
+To see the world animated, you can check out [this video](https://www.youtube.com/watch?v=m5yvqUJreJM&feature=youtu.be).
 
 ## Acknowledgements
 
