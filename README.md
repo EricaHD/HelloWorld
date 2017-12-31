@@ -23,7 +23,7 @@ This project takes in a .obj file and renders a 3D object with texture mapping a
 
 Daytime texture map:
 
-PICTURE
+![alt text](https://github.com/EricaHD/HelloWorld/blob/master/READMEpictures/daytexture.jpg)
 
 Nighttime texture map:
 
@@ -45,6 +45,6 @@ PICTURE
 
 ## Acknowledgements
 
-[Object data made by Glenn Campbell, ideastudio on www.free3d.com](https://free3d.com/3d-model/planet-earth-99065.html/)
+[Object data made by Glenn Campbell, ideastudio on www.free3d.com](https://free3d.com/3d-model/planet-earth-99065.html)
 
 Maps supplied by NASA.
