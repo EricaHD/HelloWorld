@@ -1,4 +1,4 @@
-# :earth_americas: Hello, World :earth_africa:
+# :earth_americas:  Hello, World  :earth_africa:
 
 This project takes in a .obj file and renders a 3D object with texture mapping and bump mapping.
 
@@ -21,27 +21,21 @@ This project takes in a .obj file and renders a 3D object with texture mapping a
 
 ## Texture Mapping
 
-Daytime texture map:
+Two texture maps (daytime and nighttime) linearly interpolated depending on Phong shading computed at that point.
 
-![alt text](https://github.com/EricaHD/HelloWorld/blob/master/READMEpictures/daytexture.jpg)
+![alt text](https://github.com/EricaHD/HelloWorld/blob/master/READMEpictures/dayandnight1.png)
 
-Nighttime texture map:
-
-PICTURE
-
-Combined texture map, linearly interpolating between day and night depending on Phong shading computed at that point:
-
-PICTURE
+![alt text](https://github.com/EricaHD/HelloWorld/blob/master/READMEpictures/dayandnight2.png)
 
 ## Bump Mapping
 
-Topographical bump map:
+With topographical bump map:
 
-PICTURE
+![alt text](https://github.com/EricaHD/HelloWorld/blob/master/READMEpictures/bump.png)
 
-Brick bump map:
+With brick bump map:
 
-PICTURE
+![alt text](https://github.com/EricaHD/HelloWorld/blob/master/READMEpictures/brick.png)
 
 ## Acknowledgements
 
