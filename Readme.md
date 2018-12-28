@@ -24,17 +24,17 @@ This project takes in a .obj file and renders a 3D object with texture mapping a
 
 Two texture maps (daytime and nighttime) linearly interpolated depending on Phong shading computed at that point.
 
-![alt text](https://github.com/EricaHD/HelloWorld/blob/master/READMEpictures/dayandnight1.png)
+![alt text](https://github.com/EricaHD/HelloWorld/blob/master/images/dayandnight1.png)
 
 ## Bump Mapping
 
 With topographical bump map:
 
-![alt text](https://github.com/EricaHD/HelloWorld/blob/master/READMEpictures/bump.png)
+![alt text](https://github.com/EricaHD/HelloWorld/blob/master/images/bump.png)
 
 With brick bump map:
 
-![alt text](https://github.com/EricaHD/HelloWorld/blob/master/READMEpictures/brick.png)
+![alt text](https://github.com/EricaHD/HelloWorld/blob/master/images/brick.png)
 
 ## Animation
 
