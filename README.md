@@ -42,6 +42,6 @@ To see the world animated, you can check out [this video](https://www.youtube.co
 
 ## Acknowledgements
 
-[Object data made by Glenn Campbell, ideastudio on www.free3d.com](https://free3d.com/3d-model/planet-earth-99065.html)
+[Object data made by Glenn Campbell, ideastudio on www.free3d.com](https://free3d.com/3d-model/planet-earth-99065.html).
 
 Maps supplied by NASA.
