@@ -1,6 +1,6 @@
 # :earth_americas:  Hello, World  :earth_africa:
 
-This project takes in a .obj file and renders a 3D object with texture mapping and bump mapping.
+This project takes an .obj file as input and renders the 3D object with texture mapping and bump mapping.
 
 ## Built With
 
