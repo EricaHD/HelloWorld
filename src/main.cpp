@@ -1,4 +1,4 @@
-// README:
+// Readme:
 //   'U' scale the earth up
 //   'D' scale the earth down
 //   'R' to rotate the earth
@@ -7,7 +7,7 @@
 //   'B' toggle between terrain bump map to bricks bump map
 //   Can change boolean at the top of the file to go between orthographic and perspective
 
-// ACKNOWLEDGEMENTS:
+// Acknowledgements:
 //   Object data made by Glenn Campbell, ideastudio on www.free3d.com (https://free3d.com/3d-model/planet-earth-99065.html)
 //   Maps supplied by NASA
 
